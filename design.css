@@ -17,7 +17,7 @@ body{
     background-position: center;
 }
 .wrapper{
-    width: 70vw;
+    width: 460px;
     height: fit-content;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
